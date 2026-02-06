@@ -28,22 +28,22 @@ menu:
       params:
         type: theme-toggle
     - name: Início
-      pageRef: /
+      pageRef: /docs/
       weight: 1
     - name: Oracle
-      pageRef: /sql/oracle-conexao/
+      pageRef: /docs/sql/oracle-conexao/
       weight: 2
     - name: Faturamento
-      pageRef: /sql/faturamento/
+      pageRef: /docs/sql/faturamento/
       weight: 3
     - name: Compras
-      pageRef: /sql/compras/
+      pageRef: /docs/sql/compras/
       weight: 4
     - name: Campanhas
-      pageRef: /sql/campanhas/
+      pageRef: /docs/sql/campanhas/
       weight: 5
     - name: Estoque
-      pageRef: /sql/estoque/
+      pageRef: /docs/sql/estoque/
       weight: 6
     - name: Buscar
       weight: 7
@@ -57,13 +57,13 @@ menu:
   sidebar:
     - name: SQL
       weight: 1
-      pageRef: /sql/
+      pageRef: /docs/sql/
     - name: Python
       weight: 2
-      pageRef: /python/
+      pageRef: /docs/python/
     - name: Snippets
       weight: 3
-      pageRef: /snippets/
+      pageRef: /docs/snippets/
 
 params:
   navbar:
