@@ -4,7 +4,7 @@ cascade:
   - type: docs
 ---
 
-Área de documentação interna da **DICON**. Aqui ficam consultas SQL, scripts Python e snippets que a gente usa no dia a dia.
+Área de documentação interna da **DICON**. Consultas SQL e snippets para o dia a dia.
 
 ## Seções principais
 
@@ -12,7 +12,7 @@ cascade:
 - **[Faturamento](sql/faturamento/)** – Cálculo completo, margem, devoluções, vendedores, clientes e departamentos
 - **[Compras](sql/compras/)** – Compras por produto e departamento, positivação e compra x venda
 - **[Campanhas](sql/campanhas/)** – Queries usadas no sistema Camil
-- **[Estoque](sql/estoque/)** – Estoque por CODFAB, categoria, departamento, Oracle+Vilog (KG), exportar produtos; scripts Python (BEMBRASIL, Excel, app)
+- **[Estoque](sql/estoque/)** – Estoque por CODFAB, categoria, departamento, Oracle+Vilog (KG), exportar produtos
 
 ## Acessos rápidos (Faturamento)
 

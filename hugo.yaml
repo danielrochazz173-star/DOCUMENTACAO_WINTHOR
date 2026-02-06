@@ -58,11 +58,8 @@ menu:
     - name: SQL
       weight: 1
       pageRef: /docs/sql/
-    - name: Python
-      weight: 2
-      pageRef: /docs/python/
     - name: Snippets
-      weight: 3
+      weight: 2
       pageRef: /docs/snippets/
 
 params:
@@ -82,4 +79,4 @@ params:
     default: light
   author:
     name: DICON
-  description: "Documentação interna DICON - SQL, Python e snippets para o dia a dia."
+  description: "Documentação interna DICON - consultas SQL e snippets."

@@ -13,12 +13,6 @@ Consultas e padrões para puxar estoque no Winthor (Oracle) de várias formas: p
 - [Estoque Oracle + Vilog (KG)](estoque-oracle-vilog/) – Soma estoque Oracle com peso da planilha Vilog
 - [Exportar produtos (lista)](exportar-produtos/) – CODPROD, Descrição, NCM, EAN para Excel
 
-## Scripts Python (estoque)
-
-- [Envio de estoque BEMBRASIL](../../python/estoque-envio-bembrasil/) – Oracle + Vilog → Google Sheets
-- [Exportar produtos para Excel](../../python/estoque-exportar-excel/) – Listagem formatada
-- [App de atualização de estoque](../../python/estoque-app-atualizacao/) – Atualização automática (5h) e manual
-
 ## Tabelas principais
 
 - `PCEST` – estoque por produto/filial (QTESTGER, QTRESERV, QTBLOQUEADA)
