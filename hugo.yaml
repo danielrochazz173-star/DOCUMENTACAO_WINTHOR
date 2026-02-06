@@ -1,0 +1,79 @@
+# Hugo configuration file
+title: DICON - Documentação
+enableEmoji: true
+languageCode: "pt-br"
+defaultContentLanguage: "pt-br"
+baseURL: "https://danielrochazz173-star.github.io/DOCUMENTACAOGERAL_GITHUB/"
+
+outputs:
+  home: [HTML, RSS]
+
+services: {}
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Tema
+      weight: 0
+      params:
+        type: theme-toggle
+    - name: Início
+      pageRef: /
+      weight: 1
+    - name: SQL
+      pageRef: /sql/
+      weight: 2
+    - name: Python
+      pageRef: /python/
+      weight: 3
+    - name: Snippets
+      pageRef: /snippets/
+      weight: 4
+    - name: Buscar
+      weight: 5
+      params:
+        type: search
+    - name: RSS
+      weight: 6
+      url: "/index.xml"
+      params:
+        icon: rss
+  sidebar:
+    - name: SQL
+      weight: 1
+      pageRef: /sql/
+    - name: Python
+      weight: 2
+      pageRef: /python/
+    - name: Snippets
+      weight: 3
+      pageRef: /snippets/
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+  editURL:
+    enable: false
+  youtubeDefaults:
+    iframeAllowList: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy: "no-referrer"
+    iframeStyle: "border:0; width:100%; aspect-ratio:16/9;"
+  theme:
+    default: light
+  author:
+    name: DICON
+  description: "Documentação interna DICON - SQL, Python e snippets para o dia a dia."
