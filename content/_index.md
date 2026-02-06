@@ -6,8 +6,10 @@ title: DICON - Documentação
 
 ## Seções
 
-- **[SQL](/sql/)** – Consultas, procedures, dicas de banco
-- **[Python](/python/)** – Scripts, exemplos e trechos úteis
-- **[Snippets](/snippets/)** – Outros trechos (PowerShell, configs, etc.)
+- **[Conexão Oracle e Ambiente](/sql/oracle-conexao/)** – Padrão de conexão e configuração segura
+- **[Faturamento e Margem - Padrões SQL](/sql/faturamento-margem/)** – Regras, filtros e modelo de query
+- **[Compras (COMPRA_FAT) - Visão de Dados](/sql/compra-fat/)** – Métricas e filtros de compras
+- **[Ambiente e Dependências](/python/ambiente/)** – Setup Python e pacotes base
+- **[Execução dos Projetos](/python/execucao-projetos/)** – Como rodar cada sistema
 
 Use a **busca** no topo para achar rápido o que precisar.
