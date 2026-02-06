@@ -3,7 +3,7 @@ title: DICON - Documentação
 enableEmoji: true
 languageCode: "pt-br"
 defaultContentLanguage: "pt-br"
-baseURL: "https://danielrochazz173-star.github.io/DOCUMENTACAOGERAL_GITHUB/"
+baseURL: "https://danielrochazz173-star.github.io/DOCUMENTACAO_DICON/"
 
 outputs:
   home: [HTML, RSS]
