@@ -1,6 +1,6 @@
-# DICON – Documentação
+# Documentação Winthor
 
-Site de documentação interna (Hugo + Hextra): SQL, Python e snippets.
+Projeto pessoal de documentação para todos que usam o sistema Winthor (Hugo + Hextra): SQL, Python e snippets.
 
 ## Rodar local
 

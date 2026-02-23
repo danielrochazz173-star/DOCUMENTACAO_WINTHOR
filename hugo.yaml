@@ -1,9 +1,9 @@
 # Hugo configuration file
-title: DICON - Documentação
+title: Documentação Winthor
 enableEmoji: true
 languageCode: "pt-br"
 defaultContentLanguage: "pt-br"
-baseURL: "https://danielrochazz173-star.github.io/DOCUMENTACAO_DICON/"
+baseURL: "https://danielrochazz173-star.github.io/documentacao-winthor/"
 
 outputs:
   home: [HTML, RSS]
@@ -81,5 +81,5 @@ params:
   theme:
     default: light
   author:
-    name: DICON
-  description: "Documentação interna DICON - consultas SQL e snippets."
+    name: Daniel Rocha
+  description: "Documentação Winthor - consultas SQL, Python e snippets."

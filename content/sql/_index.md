@@ -2,7 +2,7 @@
 title: SQL
 ---
 
-Consultas, procedures e exemplos SQL usados na DICON.
+Consultas, procedures e exemplos SQL usados na documentação de Winthor.
 
 ## Páginas
 

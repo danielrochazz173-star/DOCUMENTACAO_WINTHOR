@@ -2,7 +2,7 @@
 title: SQL
 ---
 
-Consultas, procedures e exemplos SQL usados na DICON (Winthor/Oracle). Use as páginas de conceitos para entender JOINs e filtros antes de montar suas queries.
+Consultas, procedures e exemplos SQL para Winthor/Oracle. Use as páginas de conceitos para entender JOINs e filtros antes de montar suas queries.
 
 ## Para começar
 

@@ -1,10 +1,10 @@
 ---
-title: DICON - Documentação
+title: Documentação Winthor
 cascade:
   - type: docs
 ---
 
-Área de documentação interna da **DICON**. Consultas SQL e snippets para o dia a dia.
+Área de documentação pessoal de **Winthor**. Consultas SQL e snippets para o dia a dia.
 
 ## Seções principais
 

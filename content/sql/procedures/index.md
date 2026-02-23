@@ -2,7 +2,7 @@
 title: "Procedures e funções"
 date: 2026-02-06
 draft: false
-description: "Procedures e funções SQL usadas na DICON."
+description: "Procedures e funções SQL para Winthor."
 tags: [sql, procedure, function]
 ---
 
